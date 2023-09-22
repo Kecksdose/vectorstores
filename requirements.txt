@@ -4,3 +4,4 @@ plotly
 pandas
 transformers
 pillow
+pytorch
